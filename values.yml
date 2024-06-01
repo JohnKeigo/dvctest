@@ -1,0 +1,7 @@
+imagePullSecrets:
+  - name: iterativeai
+
+global:
+  host: 'mydvc'
+  envVars:
+    SELF_HOSTED_LICENSE_KEY: '<License key provided by the Iterative team>'
